@@ -1,4 +1,4 @@
-# Visual-SLAM-Book-in-Google-Colab
+# Educational Colab-based implementation of SLAM Book 2
 **slambook2 and running its codes in Google Colab**
 
 
